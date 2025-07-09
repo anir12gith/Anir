@@ -7,5 +7,4 @@ Thanks for checking it out!
 
 Feel free to give feedback or suggestions 😊
 
-![Project Screenshot](![image](https://github.com/user-attachments/assets/e91075e8-37cd-4683-9720-4759bf609985)
-)
+![Project Screenshot](https://github.com/anir12gith/Anir/blob/main/robot.PNG?raw=true)

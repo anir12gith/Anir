@@ -8,3 +8,5 @@ Thanks for checking it out!
 Feel free to give feedback or suggestions 😊
 
 ![Project Screenshot](https://github.com/anir12gith/Anir/blob/main/robot.PNG?raw=true)
+
+![Project Screenshot](https://github.com/anir12gith/Anir/blob/main/robot2.PNG?raw=true)
